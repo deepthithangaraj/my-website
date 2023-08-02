@@ -109,7 +109,7 @@ p {
   justify-content: space-between;
   align-items: center;
   font-weight: 300;
-  padding-top: 60px;
+  padding-top: 30px;
 }
 
 @media screen and (max-width: 877px) {
