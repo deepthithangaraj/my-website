@@ -50,6 +50,28 @@ body {
   color: var(--second-color);
 }
 
+@media (max-width: 768px) {
+  body {
+    margin: 0 20px;
+  padding: 0 0 0 0px;
+  font-family: var(--body-font);
+  font-size: var(--normal-font-size);
+  color: var(--second-color);
+
+  }
+}
+
+@media (max-width: 400px) {
+  body {
+    margin: 0 20px;
+  padding: 0 0 0 0;
+  font-family: var(--body-font);
+  font-size: var(--normal-font-size);
+  color: var(--second-color);
+
+  }
+}
+
 
 h1, h2, p {
   margin: 0;
@@ -305,7 +327,7 @@ margin-bottom: 10px;
 /*CSS*/
 
 .empty-space {
-  height: 50px;
+  height: 10px;
 }
 
 p {
