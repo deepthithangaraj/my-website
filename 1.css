@@ -341,22 +341,6 @@ p {
   flex-wrap: wrap;  
 }
 
-.image1 {
-  width: 436px;
-  height: 528px;
-  justify-content: flex-end;
- 
-}
-
-.img-container {
-  flex: 1; 
-   max-width: 436px; 
-   margin-right: 30px; 
-   padding-bottom: 20px;
-   padding-left: 0px;
-}
-
-
 .video-container {
    flex: 1; 
    max-width: 700px; 
